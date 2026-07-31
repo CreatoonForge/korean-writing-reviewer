@@ -1,0 +1,32 @@
+{
+  "version": "0.5.0",
+  "packages": {
+    "general-agent": {
+      "skill": "skills/general-agent/SKILL.md",
+      "mode": null
+    },
+    "obsidian-yolo": {
+      "skill": "skills/obsidian-yolo/SKILL.md",
+      "mode": "always"
+    }
+  },
+  "shared_reference_sha256": {
+    "common-criteria.md": "55c4a6704db034ed8473eb6f80e577a5e5f04401a624ada8325b08ae6730c7b8",
+    "document-profiles.md": "b978c78375cde22267e2617eb6252aa34b07f2a275823336bbfc35b006ca65ac",
+    "evaluation-workflow.md": "a20709bbc7d5b06a8846e1d09b11ba2dcffb17b8da58f626a099d07b76a3c9dc",
+    "examples.md": "b7c382eb99e7f958ff766df9130e95ccd023b29c4ed92f07b1a73714e3c4f5ac",
+    "korean-ai-patterns.md": "a0f1fe0209915060c409daad41a9ad36ba55b74b0e059243bd45a55011c7421e",
+    "scoring-common.md": "080ae0f31cce74f3d6d5f07a1b100299bbabcc6fb26f38ac0f343d405caaa1d7",
+    "scoring-examples.md": "0f9a9879fcf5a0cc155590be6794900f4622620379b3591c2ffd3fd21de7a469",
+    "scoring-explanation.md": "0c6c6b9713c6ed4252ec616213abd6c162e437195c7b81a187bb6982bd59e4f8",
+    "scoring-meeting.md": "42d91509a6cccdeec28a24bcbcfcb11cb3d4fb85462f0a0caf4dbf88c580cbe4",
+    "scoring-message.md": "af2dc97dd164f1caec6292f53e5195344cce7a96252cbb9f981db210dba057d1",
+    "scoring-note.md": "ed923714646e5ab6eb71231e2f7d698cffbd69784d33995af2b249a668f4d061",
+    "scoring-post.md": "ffb987ebc711fbd997a5c3d65cd464146c38e3e46a351e6771d203de4223ec1b",
+    "scoring-report.md": "bb5fd6925230920cf90f327f42c214b1d7e775bb62711aeac9fc1039f1e0c1ff",
+    "scoring-research.md": "2ee41fa8b1d8555abcfe3087988718edab9a41afefbda24ae8d6ce45b711750d",
+    "scoring-script.md": "57deac52dfc03da92d8eff9233dbf5c7e474b5ff19812509a6089d91032e84b7",
+    "scoring-technical.md": "fbd8d87eaa2ff84a5f066dcd5dcaa60c717a5b68d443e70aadd5dedef4caaed4",
+    "source-basis.md": "43eef4bc14d856769892cdc755103caa88e89268c814b6ee9f80d6d0fb2a58a9"
+  }
+}
