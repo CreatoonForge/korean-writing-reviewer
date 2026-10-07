@@ -13,10 +13,10 @@
   "shared_reference_sha256": {
     "common-criteria.md": "55c4a6704db034ed8473eb6f80e577a5e5f04401a624ada8325b08ae6730c7b8",
     "document-profiles.md": "b978c78375cde22267e2617eb6252aa34b07f2a275823336bbfc35b006ca65ac",
-    "evaluation-workflow.md": "a20709bbc7d5b06a8846e1d09b11ba2dcffb17b8da58f626a099d07b76a3c9dc",
+    "evaluation-workflow.md": "864b2ee07caa54e09a2ac97e777ee40a2ed3f09a84ac7f7adf5570b94a8b22ac",
     "examples.md": "b7c382eb99e7f958ff766df9130e95ccd023b29c4ed92f07b1a73714e3c4f5ac",
     "korean-ai-patterns.md": "a0f1fe0209915060c409daad41a9ad36ba55b74b0e059243bd45a55011c7421e",
-    "scoring-common.md": "080ae0f31cce74f3d6d5f07a1b100299bbabcc6fb26f38ac0f343d405caaa1d7",
+    "scoring-common.md": "76deca9a935ac7a6e7ecf5c97fb4f121c0b9c097e5c3be053e860124e8135715",
     "scoring-examples.md": "0f9a9879fcf5a0cc155590be6794900f4622620379b3591c2ffd3fd21de7a469",
     "scoring-explanation.md": "0c6c6b9713c6ed4252ec616213abd6c162e437195c7b81a187bb6982bd59e4f8",
     "scoring-meeting.md": "42d91509a6cccdeec28a24bcbcfcb11cb3d4fb85462f0a0caf4dbf88c580cbe4",

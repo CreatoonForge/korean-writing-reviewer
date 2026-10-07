@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+- 일반 검토를 점수 없는 `review` 모드로 분리
+- 점수·채점·등급을 명시한 경우에만 점수표 적용
+- 최종 검수·문서 비교·일반 평가 요청의 자동 채점 제거
+- 채점 없는 검토 후 수정은 `improve`로 처리
+- 일반 에이전트용과 Obsidian YOLO용의 공통 평가 정책 및 편집 금지 조건 동기화
+
 ## 0.5.0 - 2026-07-31
 
 - 평가와 개선을 `evaluate`, `improve`, `evaluate-and-improve` 모드로 분리
